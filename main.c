@@ -1,4 +1,4 @@
-/*
+/* comment
   Runtime Library Float vs Floating Point Unit Benchmark
   Changes the state of a variable and performs 
   thousands of fractional calculations repeatedly.
